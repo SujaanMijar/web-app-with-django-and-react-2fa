@@ -1,4 +1,4 @@
-# Associate Full Stack Developer Assessment: Django + React MFA Web App
+Django + React MFA Web App
 
 ## Introduction
 Welcome to the Associate Full Stack Developer take-home assessment.  
@@ -54,9 +54,5 @@ This app provides:
 
 ---
 
-## Setup and Installation
 
-### Backend
-1. Clone the repo and navigate to backend folder:
-   ```bash
-   cd backend
+
